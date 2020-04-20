@@ -1,0 +1,189 @@
+{
+	"Lagos": {
+		"cases": 306,
+		"recoveries": 93,
+		"deaths": 13
+	},
+	"Abuja": {
+		"cases": 81,
+		"recoveries": 23,
+		"deaths": 2
+	},
+	"Kano": {
+		"cases": 37,
+		"recoveries": 0,
+		"deaths": 1
+	},
+	"Osun": {
+		"cases": 20,
+		"recoveries": 18,
+		"deaths": 0
+	},
+	"Oyo": {
+		"cases": 16,
+		"recoveries": 5,
+		"deaths": 1
+	},
+	"Edo": {
+		"cases": 15,
+		"recoveries": 6,
+		"deaths": 1
+	},
+	"Ogun": {
+		"cases": 12,
+		"recoveries": 5,
+		"deaths": 0
+	},
+	"Kwara": {
+		"cases": 9,
+		"recoveries": 2,
+		"deaths": 0
+	},
+	"Katsina": {
+		"cases": 9,
+		"recoveries": 0,
+		"deaths": 1
+	},
+	"Bauchi": {
+		"cases": 6,
+		"recoveries": 0,
+		"deaths": 1
+	},
+	"Kaduna": {
+		"cases": 6,
+		"recoveries": 4,
+		"deaths": 0
+	},
+	"Akwa_Ibom": {
+		"cases": 6,
+		"recoveries": 3,
+		"deaths": 0
+	},
+	"Delta": {
+		"cases": 4,
+		"recoveries": 0,
+		"deaths": 1
+	},
+	"Ondo": {
+		"cases": 3,
+		"recoveries": 0,
+		"deaths": 0
+	},
+	"Ekiti": {
+		"cases": 3,
+		"recoveries": 2,
+		"deaths": 0
+	},
+	"Enugu": {
+		"cases": 2,
+		"recoveries": 2,
+		"deaths": 0
+	},
+	"Rivers": {
+		"cases": 2,
+		"recoveries": 2,
+		"deaths": 0
+	},
+	"Niger": {
+		"cases": 2,
+		"recoveries": 0,
+		"deaths": 0
+	},
+	"Benue": {
+		"cases": 1,
+		"recoveries": 0,
+		"deaths": 0
+	},
+	"Anambra": {
+		"cases": 1,
+		"recoveries": 0,
+		"deaths": 0
+	},
+	"Bayelsa": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Cross_River": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Abia": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Adamawa": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Borno": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Ebonyi": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Imo": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Jigawa": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Kebbi": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Kogi": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Nasarawa": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Plateau": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Sokoto": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Taraba": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Zamfara": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Gombe": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    },
+    "Yobe": {
+		"cases": 0,
+		"recoveries": 0,
+		"deaths": 0
+    }
+    	
+	
+}
